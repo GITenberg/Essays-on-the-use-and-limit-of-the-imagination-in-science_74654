@@ -1,0 +1,32 @@
+_repo: Essays-on-the-use-and-limit-of-the-imagination-in-science_74654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tyndall, John
+    alias: Tyndal, John
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '561'
+    url: http://www.gutenberg.org/2009/agents/561
+    wikipedia: https://en.wikipedia.org/wiki/John_Tyndall
+description: ''
+gutenberg_issued: '2024-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74654'
+language: en
+pgterms:marc904: https://archive.org/details/b22345759/mode/2up
+pgterms:marc905: 20211216052500tyndall
+pgterms:marc906: '1870'
+pgterms:marc907: GB
+production_note: Tim Lindell, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bLongmans, Green & Co., $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essays on the use and limit of the imagination in science
+url: http://www.gutenberg.org/ebooks/74654
